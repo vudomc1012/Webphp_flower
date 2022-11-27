@@ -106,14 +106,14 @@
     <div class="ui container">
       <div class="ui stackable inverted divided equal height stackable grid">
         <div class="three wide column">
-          <h4 class="ui inverted header">About</h4>
+          <!-- <h4 class="ui inverted header">About</h4> -->
           <div class="ui inverted link list">
 
           </div>
         </div>
         <div class="seven wide column">
-          <h4 class="ui inverted header">VUDA</h4>
-          <p>Your code my future</p>
+          <h4 class="ui inverted header">Linh Trang Tran</h4>
+          <p>Design By Bun Dau Mam Tom</p>
         </div>
       </div>
     </div>

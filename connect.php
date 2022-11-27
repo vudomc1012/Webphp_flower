@@ -7,10 +7,10 @@
 
 	$connect = mysqli_connect($servername,$username,$password,$database);
 	if(!$connect){
-        echo '<script>alert("Kết nối thất bại ! !")</script>';
+        // echo '<script>alert("Kết nối thất bại ! !")</script>';
 	}
     else{
-		echo '<script>alert("Kết nối thành công ! !")</script>';
+		// echo '<script>alert("Kết nối thành công ! !")</script>';
    //header("location: http://localhost:8012/Homepage.php");
 }
 // if(isset($_GET['detail'])){

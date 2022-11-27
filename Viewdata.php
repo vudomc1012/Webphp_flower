@@ -54,10 +54,9 @@
 
     <div class="ui text container">
       <h1 class="ui inverted header">
-        Phone Store
+        Flower Store
       </h1>
       <h2>Do whatever you want when you want to.</h2>
-      <div class="ui huge primary button">Get Started <i class="right arrow icon"></i></div>
     </div>
 
   </div>
@@ -93,7 +92,8 @@
       <td><?php echo $row['Price']?> </td>
       <td><?php echo $row['Category']?> </td>
       <td> <a href= https://hoayeuthuong.com/?ref=awd_shop%20hoa&gclid=Cj0KCQiAj4ecBhD3ARIsAM4Q_jHXMxa5UFgjPKGsPAPtOXKsDsVoBB5Eet6CRh1bTj7g8qPwvwP7M6QaAuUbEALw_wcB>Detail</a></td>
-      <td> <a href="connect.php?delete=<?php echo $row['IDflower']?>">Delete</a></td>
+    
+      <td> <a href="connect.php?delete=<?php echo $row['IDflower']; ?>">Delete</a></td>
     </tr>
 	<?php endwhile; ?>
   </tbody>
@@ -123,7 +123,7 @@
         <div class="column">
           <h3>"I shouldn't have gone with their code."</h3>
           <p>
-            <img src="assets/images/avatar/nan.jpg" class="ui avatar image"> <b>Nan</b> Chief Fun Officer Acme Toys
+            <img src="pic\IMG_20221110_081535.jpg" class="ui avatar image"> <b>Naeee</b> Before You
           </p>
         </div>
       </div>

@@ -1,8 +1,6 @@
-
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 <!-- JavaScript Bundle with Popper -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
-	
 <!-- Following Menu -->
 <div class="ui large top fixed hidden menu">
   <div class="ui container">
@@ -25,11 +23,9 @@
 <!-- Sidebar Menu -->
 <div class="ui vertical inverted sidebar menu">
   <a class="active item">Home</a>
-  <a class="item">Add Data</a>
+  <a class="item">Flower Data</a>
   <a class="item">View Detail</a>
   <a class="item">Contact Us</a>
-  <a class="item">Login</a>
-  <a class="item">Signup</a>
 </div>
 
 
@@ -53,16 +49,17 @@
       </div>
     </div>
 
-    <head>
-	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-<!-- JavaScript Bundle with Popper -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
-	<title>DAV</title>
-</head>
-  <body>
+    <div class="ui text container">
+      <h1 class="ui inverted header">
+        Flower Store
+      </h1>
+      <h2>Make your life have the rhythm of the sunflower </h2>
+      <div class="ui huge primary button">Get A Flower You Like <i class="right arrow icon"></i></div>
+    </div>
+
+  </div>
+
+  <div class="ui vertical stripe segment">
   <!-- contact: Do Anh Vu -->
   <h2 align="center"> <font color="#FF0000" size="7">ADD DATA</font></h2>
   <table width="100%" border="2">
@@ -109,35 +106,26 @@
         <button type="submit" class="btn btn-light" name="insert">Insert</button>
       </div>
     </form>
-  </body>
+  </div>
 
   <div class="ui vertical stripe quote segment">
     <div class="ui equal width stackable internally celled grid">
-      <div class="center aligned row">
-        <div class="column">
-
-        </div>
-        <div class="column">
-      
-        </div>
-      </div>
+    
     </div>
   </div>
-
-
 
   <div class="ui inverted vertical footer segment">
     <div class="ui container">
       <div class="ui stackable inverted divided equal height stackable grid">
         <div class="three wide column">
-          <h4 class="ui inverted header">About</h4>
+          <!-- <h4 class="ui inverted header">About</h4> -->
           <div class="ui inverted link list">
 
           </div>
         </div>
         <div class="seven wide column">
-          <h4 class="ui inverted header">VUDA</h4>
-          <p>Your code my future</p>
+          <h4 class="ui inverted header">Linh Trang Tran</h4>
+          <p>Design By Bun Dau Mam Tom</p>
         </div>
       </div>
     </div>
